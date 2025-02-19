@@ -3,7 +3,7 @@
 <p align="top">
   <img src="img1.png" alt="Imagem do Projeto" width="400"/>
   <img src="gpt.png" alt="Logo ChatGPT" width="200"/>
-  <img src="Capcut.png" alt="Logo Capcut" width="200"/>
+  <img src="capcut.png" alt="Logo Capcut" width="200"/>
 </p>
 
 ## 📒 Descrição
